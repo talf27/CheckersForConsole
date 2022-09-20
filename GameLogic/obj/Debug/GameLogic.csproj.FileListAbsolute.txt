@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\לימודים\Checkers for Console\GameLogic\bin\Debug\Ex02_02.dll.config
+C:\Users\ASUS\Documents\לימודים\Checkers for Console\GameLogic\bin\Debug\Ex02_02.dll
+C:\Users\ASUS\Documents\לימודים\Checkers for Console\GameLogic\bin\Debug\Ex02_02.pdb
+C:\Users\ASUS\Documents\לימודים\Checkers for Console\GameLogic\obj\Debug\GameLogic.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\לימודים\Checkers for Console\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\לימודים\Checkers for Console\GameLogic\obj\Debug\Ex02_02.dll
+C:\Users\ASUS\Documents\לימודים\Checkers for Console\GameLogic\obj\Debug\Ex02_02.pdb

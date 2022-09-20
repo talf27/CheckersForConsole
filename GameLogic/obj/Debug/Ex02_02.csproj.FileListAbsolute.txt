@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\לימודים\Checkers for Console\Ex02_02\obj\Debug\Ex02_02.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\לימודים\Checkers for Console\Ex02_02\obj\Debug\Ex02_02.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\לימודים\Checkers for Console\Ex02_02\bin\Debug\Ex02_02.dll.config
+C:\Users\ASUS\Documents\לימודים\Checkers for Console\Ex02_02\bin\Debug\Ex02_02.dll
+C:\Users\ASUS\Documents\לימודים\Checkers for Console\Ex02_02\bin\Debug\Ex02_02.pdb
+C:\Users\ASUS\Documents\לימודים\Checkers for Console\Ex02_02\obj\Debug\Ex02_02.dll
+C:\Users\ASUS\Documents\לימודים\Checkers for Console\Ex02_02\obj\Debug\Ex02_02.pdb
