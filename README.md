@@ -14,7 +14,7 @@ The player makes his move by the format: COLrow>COLrow (for example in the pictu
 
 <img src="Damka console screenshot.jpg" width=400>
 
-The O's kings are marked with 'Q', and The X's kings are marked with Z.
+The O's kings are marked with 'Q', and The X's kings are marked with Z.\
 At any point, the user can quit the game by entering 'Q' instead of a valid move.
 
 -----
