@@ -18,6 +18,6 @@ score is calculated in each round's end as the difference between the players' r
 or to both players if round ends with a tie.
 
 -----
-<img src="Damka console screenshot.jpg" width=250>
+<img src="Damka console screenshot.jpg" width=400>
 
 Enjoy the game! :)
